@@ -4,7 +4,7 @@ body {
 }
 
 .euro-page{
-    background-color: #090909;
+    background-color: #121212;
     height: 700px;
     flex-shrink: 0;
 }
@@ -136,9 +136,10 @@ margin: 0 5% 0 5%;
     margin: 5% 5% 0 5%;
 }
 
+/* my project section */
+
 .my-project{
-    background-color: #090909;
-    height: 3244px;
+    background-color: #121212;
     flex-shrink: 0;
     color: white;
 }
@@ -197,4 +198,12 @@ line-height: 150%;
     gap: 8px;
     border-radius: 100px;
 border: 1px solid var(--neutral-2, rgba(227, 228, 230, 0.55));
+}
+
+/* contact me section */
+
+.contact-me{
+
+    background-color: #ffffff;
+    flex-shrink: 0;
 }
